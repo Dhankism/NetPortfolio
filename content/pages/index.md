@@ -34,7 +34,7 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        flexDirection: col-reverse
+        flexDirection: col
         textAlign: left
         borderColor: border-(--theme-primary)
     type: HeroSection
