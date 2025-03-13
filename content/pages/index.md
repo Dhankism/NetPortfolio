@@ -35,7 +35,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: row
-        textAlign: left
+        textAlign: center
         borderColor: border-(--theme-primary)
     type: HeroSection
     actions: []
