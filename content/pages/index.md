@@ -37,7 +37,7 @@ sections:
         flexDirection: col
         textAlign: center
         borderColor: border-(--theme-primary)
-        borderWidth: 5
+        borderWidth: 0
     type: HeroSection
     actions: []
   - colors: colors-f
